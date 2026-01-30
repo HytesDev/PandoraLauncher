@@ -1,6 +1,7 @@
 # Pandora Launcher
 
 Work in progress
+Dont mind my little fork
 
 ## Features
 - Instance management
